@@ -1,0 +1,13 @@
+# Milvus Configuration
+# Update these values according to your Milvus deployment
+
+MILVUS_HOST=192.168.2.248
+MILVUS_PORT=19530
+MILVUS_USER=
+MILVUS_PASSWORD=
+
+# Optional: Override default collection settings
+# COLLECTION_NAME=pdf_documents
+# DIMENSION=768
+# CHUNK_SIZE=1000
+# CHUNK_OVERLAP=200 

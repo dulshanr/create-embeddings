@@ -1,0 +1,12 @@
+pymilvus
+pymupdf
+langchain
+langchain-community
+sentence-transformers
+python-dotenv==1.0.0
+numpy
+pandas
+streamlit
+tqdm==4.66.1
+openai
+psutil 
